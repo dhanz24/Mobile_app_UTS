@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Healthy Budy</string>
+    <string name="title_activity_navbar">navbar</string>
+    <string name="title_home">Home</string>
+    <string name="title_tools">Tools</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
